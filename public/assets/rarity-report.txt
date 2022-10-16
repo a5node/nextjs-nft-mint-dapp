@@ -1,0 +1,149 @@
+
+Trait type: Background
+{
+  trait: 'Lavrov',
+  weight: '1',
+  occurrence: '334 in 1000 editions (33.40 %)'
+}
+{
+  trait: 'Putin',
+  weight: '1',
+  occurrence: '333 in 1000 editions (33.30 %)'
+}
+{
+  trait: 'Shoigu',
+  weight: '1',
+  occurrence: '333 in 1000 editions (33.30 %)'
+}
+
+Trait type: Scratch
+{
+  trait: 'Scratch1',
+  weight: '1',
+  occurrence: '123 in 1000 editions (12.30 %)'
+}
+{
+  trait: 'Scratch2',
+  weight: '1',
+  occurrence: '119 in 1000 editions (11.90 %)'
+}
+{
+  trait: 'Scratch3',
+  weight: '1',
+  occurrence: '129 in 1000 editions (12.90 %)'
+}
+{
+  trait: 'Scratch4',
+  weight: '1',
+  occurrence: '127 in 1000 editions (12.70 %)'
+}
+{
+  trait: 'Scratch5',
+  weight: '1',
+  occurrence: '127 in 1000 editions (12.70 %)'
+}
+{
+  trait: 'Scratch6',
+  weight: '1',
+  occurrence: '127 in 1000 editions (12.70 %)'
+}
+{
+  trait: 'Scratch7',
+  weight: '1',
+  occurrence: '124 in 1000 editions (12.40 %)'
+}
+{
+  trait: 'Scratch8',
+  weight: '1',
+  occurrence: '124 in 1000 editions (12.40 %)'
+}
+
+Trait type: Center
+{
+  trait: 'Bullet1',
+  weight: '20',
+  occurrence: '110 in 1000 editions (11.00 %)'
+}
+{
+  trait: 'Bullet2',
+  weight: '40',
+  occurrence: '137 in 1000 editions (13.70 %)'
+}
+{
+  trait: 'Bullet3',
+  weight: '40',
+  occurrence: '134 in 1000 editions (13.40 %)'
+}
+{
+  trait: 'Bullet4',
+  weight: '20',
+  occurrence: '100 in 1000 editions (10.00 %)'
+}
+{
+  trait: 'Bullet5',
+  weight: '20',
+  occurrence: '105 in 1000 editions (10.50 %)'
+}
+{
+  trait: 'DickLavrovOnly',
+  weight: '40',
+  occurrence: '44 in 1000 editions (4.40 %)'
+}
+{
+  trait: 'DickLavrovOnly2',
+  weight: '100',
+  occurrence: '47 in 1000 editions (4.70 %)'
+}
+{
+  trait: 'DickLavrovOnly3',
+  weight: '100',
+  occurrence: '48 in 1000 editions (4.80 %)'
+}
+{
+  trait: 'DickNoLavrov',
+  weight: '40',
+  occurrence: '83 in 1000 editions (8.30 %)'
+}
+{
+  trait: 'DickNoLavrov2',
+  weight: '100',
+  occurrence: '96 in 1000 editions (9.60 %)'
+}
+{
+  trait: 'DickNoLavrov3',
+  weight: '100',
+  occurrence: '96 in 1000 editions (9.60 %)'
+}
+
+Trait type: Frame
+{
+  trait: 'Frame1',
+  weight: '30',
+  occurrence: '158 in 1000 editions (15.80 %)'
+}
+{
+  trait: 'Frame2',
+  weight: '30',
+  occurrence: '161 in 1000 editions (16.10 %)'
+}
+{
+  trait: 'Frame3',
+  weight: '100',
+  occurrence: '188 in 1000 editions (18.80 %)'
+}
+{
+  trait: 'Frame4',
+  weight: '100',
+  occurrence: '189 in 1000 editions (18.90 %)'
+}
+{
+  trait: 'Frame5',
+  weight: '30',
+  occurrence: '147 in 1000 editions (14.70 %)'
+}
+{
+  trait: 'NoFrame',
+  weight: '30',
+  occurrence: '157 in 1000 editions (15.70 %)'
+}
+
